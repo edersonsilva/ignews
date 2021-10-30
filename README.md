@@ -1,6 +1,6 @@
 # Ignite Next.Js
 
-  ![Página Principal](./public/home.png)  
+  ![Página Principal](./public/home.PNG)  
 
 <h1 align="center">
   <img alt="Logo" src="./public/images/logo.svg" alt="ig.News">
